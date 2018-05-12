@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/864
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Larcom
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30829#Our-Young-Folks-Vol.-I-No.-II-February-1865An-Illustrated-Magazine-for-Boys-and-Girls
 gutenberg_bookshelf: Our Young Folks
 gutenberg_issued: '2010-01-02'
 gutenberg_type: Text
