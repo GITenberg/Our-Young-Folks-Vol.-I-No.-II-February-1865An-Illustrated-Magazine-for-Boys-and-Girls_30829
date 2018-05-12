@@ -1,0 +1,51 @@
+_repo: Our-Young-Folks-Vol.-I-No.-II-February-1865An-Illustrated-Magazine-for-Boys-and-Girls_30829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Trowbridge, J. T. (John Townsend)
+    aliases:
+    - Trowbridge, John Townsend
+    - Trowbridge, J.T.
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '9020'
+    url: http://www.gutenberg.org/2009/agents/9020
+    wikipedia: http://en.wikipedia.org/wiki/John_Townsend_Trowbridge
+  - agent_name: Hamilton, Gail
+    alias: Dodge, Mary Abigail
+    birthdate: 1833
+    deathdate: 1896
+    gutenberg_agent_id: '886'
+    url: http://www.gutenberg.org/2009/agents/886
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Abigail_Dodge
+  - agent_name: Larcom, Lucy
+    birthdate: 1824
+    deathdate: 1893
+    gutenberg_agent_id: '864'
+    url: http://www.gutenberg.org/2009/agents/864
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Larcom
+description: ''
+gutenberg_bookshelf: Our Young Folks
+gutenberg_issued: '2010-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature -- Periodicals'
+- !lcc 'AP'
+title: 'Our Young Folks—Vol. I, No. II, February 1865
+
+  An Illustrated Magazine for Boys and Girls'
+url: http://www.gutenberg.org/ebooks/30829
